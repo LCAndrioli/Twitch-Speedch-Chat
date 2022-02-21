@@ -12,9 +12,9 @@ var options = {
     },
     identity: {
         username: "Teteu",
-        password: "oauth:bm6jxxbyys49pnjujooayzwb0yfx6c"
+        password: ""
     },
-    channels:["lil_kuro"]
+    channels:[""]
 }
 var client = new tmi.client(options);
 client.connect();
